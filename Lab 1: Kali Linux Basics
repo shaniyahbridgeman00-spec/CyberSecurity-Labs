@@ -1,0 +1,38 @@
+Objective
+Learn and memorize basic Linux commands using Kali Linux in Orcle Virtualbox
+Environment
+Operating System: Kali Linux
+Virtualization Software: Oracle VirtualBox
+Skill Level: Beginner
+
+Commands Practiced
+1. Pwd
+Displays the current working directory
+Example:
+pwd
+
+2. ls
+Lists files and directories.
+Example:
+ls
+
+3.cd
+Changes the current directory
+Ecample:
+cd Documents
+
+4. mkdir
+Creates a new directory
+Example:
+mkdir Cybersecurity-Lab
+
+5. whoami
+Displays the current username
+Example: 
+whoami
+
+What I Learned
+I learned how to navigate the Linux terminal, identify my current directory, list files, and create folders.
+
+Result 
+I practiced the most basic Linux xommands in my Kali Linux virtual machine.
